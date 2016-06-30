@@ -1,7 +1,7 @@
 # Site settings
-title: Joi Wu Passionate about brownies, mental health, and Dyson engineering. 
+title: Joi Wu  
 email: wujoi@aol.com
-description: > # this means to ignore newlines until "baseurl:"
+description: Passionate about brownies, mental health, and Dyson engineering. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wujoi.github.io/" # the base hostname & protocol for your site
 
